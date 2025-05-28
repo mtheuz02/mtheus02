@@ -13,7 +13,7 @@
 
 ## 📫 Como me encontrar:
 - Email: [matheusrocha020706@gmail.com]  
-- LinkedIn: [Matheus Rocha de Oliveira]  
+- LinkedIn: [https://www.linkedin.com/in/matheus-rocha-de-oliveira-45546a352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
 - GitHub: [https://github.com/mtheuz02/mtheus02.git]
 
 ---
