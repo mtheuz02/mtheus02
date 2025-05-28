@@ -14,7 +14,7 @@
 ## 📫 Como me encontrar:
 - Email: [matheusrocha020706@gmail.com]  
 - LinkedIn: [Matheus Rocha de Oliveira]  
-- GitHub: [https://github.com/seunome](https://github.com/seunome)
+- GitHub: [https://github.com/mtheuz02/mtheus02.git]
 
 ---
 
