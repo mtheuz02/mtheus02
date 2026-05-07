@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Matheus Rocha!
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas (2º semestre)**
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas (4º semestre)**
 💻 Apaixonado por desenvolvimento de software e tecnologia
 🚀 Buscando oportunidade de estágio na área de TI
 
